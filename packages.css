@@ -1,0 +1,377 @@
+.logo{
+	height:60px;
+	width: 60px;
+	left:20px;
+	top:25px;
+	position: absolute;
+	border-radius: 40px;
+
+
+}
+.logoname{
+	height:100px;
+	width: 100px;
+	left:150px;
+	top:25px;
+	position: absolute;
+	border-radius: 40px;
+}
+.home{
+	width: 169px; 
+	height: 43px; 
+	left: 400px; 
+	top: 30px; 
+	position: absolute; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.00);
+	border-color: white;
+	border-width: 0px;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.packages{
+	width: 169px; 
+	height: 43px; 
+	left: 760px; 
+	top: 30px; 
+	position: absolute; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color:rgba(255, 255, 255, 0.00);
+	border-color: white;
+	border-width: 0px;
+
+}
+.aboutus{
+	width: 169px; 
+	height: 43px; 
+	left: 580px; 
+	top: 30px; 
+	position: absolute; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.00);
+	border-color: white;
+	border-width: 0px;
+
+}
+.contact{
+	width: 169px; 
+	height: 43px; 
+	left: 940px; 
+	top: 30px; 
+	position: absolute; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.00);
+	border-color: white;
+	border-width: 0px;
+
+}
+.login{
+	width: 200px; 
+	height: 43px;
+	left: 1240px; 
+	top: 30px;
+	background-color:#BDF7FB;
+	font-size: 22px; 
+	font-family: Roboto Serif; 
+	font-weight: 600; 
+	word-wrap: break-word;
+	position: absolute;
+	border-radius: 20px;
+	border-color: white;
+	border-width: 0px;
+
+}
+.place{
+	width: 600px; 
+	height: 150px; 
+	left: 600px; 
+	position: absolute;
+	top: 70px;
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1116px;
+    height: 62px;
+    flex-shrink: 0;
+
+}
+.line{
+	width: 300px;
+    background: #000;
+    height: 1px;
+    left: 610px; 
+	position: absolute;
+	top: 170px;
+}
+.time{ 
+	left: 650px; 
+	position: absolute;
+	top: 170px;
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1116px;
+    height: 62px;
+    flex-shrink: 0;
+
+}
+.tripto{
+	width: 100x;
+    height: 26.019px; 
+	left: 98px; 
+	top: 35px; 
+	position: absolute; 
+	font-size: 25px; 
+	font-family: 'Slackey';
+	font-weight: 700; 
+	word-wrap: break-word;
+    color:black;
+}
+.divis{
+	height:230px;
+	width: 370px;
+	left:100px;
+	top:240px;
+	position: absolute;
+	border-radius: 20px;	
+
+}
+.pdivis{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:100px;
+	top:440px;
+	position: absolute;
+}
+.bheemli{
+	height:230px;
+	width: 370px;
+	left:1000px;
+	top:450px;
+	position: absolute;
+	border-radius: 20px;
+}
+.pbheemli{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:1000px;
+	top:650px;
+	position: absolute;
+
+}
+.redsand{
+	height:230px;
+	width: 370px;
+	left:100px;
+	top:700px;
+	position: absolute;
+	border-radius: 20px;	
+}
+.predsand{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:100px;
+	top:900px;
+	position: absolute;
+}
+.totlakonda{
+	height:230px;
+	width: 370px;
+	left:1000px;
+	top:900px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.ptotlakonda{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:1000px;
+	top:1100px;
+	position: absolute;
+}
+.rushikonda{
+	height:230px;
+	width: 370px;
+	left:100px;
+	top:1100px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.prushikonda{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:100px;
+	top:1300px;
+	position: absolute;
+
+}
+.kailasagiri{
+	height:230px;
+	width: 370px;
+	left:1000px;
+	top:1300px;
+	position: absolute;
+	border-radius: 20px;	
+}
+.pkailasagiri{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:1000px;
+	top:1500px;
+	position: absolute;
+}
+.rkbeach{
+	height:230px;
+	width: 370px;
+	left:100px;
+	top:1500px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.prkbeach{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:100px;
+	top:1700px;
+	position: absolute;
+}
+.dolphin{
+	height:230px;
+	width: 370px;
+	left:1000px;
+	top:1700px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.pdolphin{
+	color: #000;
+    font-family: "Roboto Serif";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 392px;
+    height: 90px;
+    flex-shrink: 0;
+    left:1000px;
+	top:1900px;
+	position: absolute;
+
+}
+.breakfast{
+	height:100px;
+	width: 150px;
+	left:670px;
+	top:600px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.road{
+	height:1700px;
+	width: 80px;
+	left:700px;
+	top:280px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+.lunch{
+	height:100px;
+	width: 150px;
+	left:670px;
+	top:1200px;
+	position: absolute;
+	border-radius: 20px;
+
+}
+body{
+	background-image: url("car.png");	
+	height:100px;
+	width: 100px;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin-top: 30px;
+	margin-left: 50px;
+
+}
